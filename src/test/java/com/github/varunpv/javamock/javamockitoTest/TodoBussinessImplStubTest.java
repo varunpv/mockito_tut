@@ -1,4 +1,4 @@
-package com.github.varunpv.javamockitoTest;
+package com.github.varunpv.javamock.javamockitoTest;
 
 import com.github.varunpv.javamock.TodoBussinessImpl;
 import com.github.varunpv.javamock.TodoSeriveStub;
